@@ -1,0 +1,9 @@
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\obj\Debug\ConsoleApp1teste.csprojAssemblyReference.cache
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\bin\Debug\ConsoleApp1teste.exe.config
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\bin\Debug\ConsoleApp1teste.exe
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\bin\Debug\ConsoleApp1teste.pdb
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\obj\Debug\ConsoleApp1teste.exe
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\obj\Debug\ConsoleApp1teste.pdb
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\bin\Debug\ClassLibrary1.dll
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\bin\Debug\ClassLibrary1.pdb
+C:\Users\rodrigo negao\source\repos\ConsoleApp1teste\ConsoleApp1teste\obj\Debug\ConsoleApp1teste.csproj.CopyComplete
