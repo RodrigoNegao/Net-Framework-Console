@@ -57,8 +57,10 @@ namespace ConsoleApp1teste
             //Console.WriteLine("Object 2 property is " + myObject2.number3);
 
             var customer = new MyLibrary1.Customer();
-            var calc = new MyLibrary1.Calculate();
-            var result = calc.PerformCal(10, 10);
+            //var calc = new MyLibrary1.AddCalculate();
+            //MyLibrary1.ICalculate calc1 = new MyLibrary1.AddCalculate();
+            MyLibrary1.ICalculate calc1 = new MyLibrary1.SubtractCalculate() ;
+            var result = calc1.PerformCal(35, 10);
             Console.WriteLine(result);
 
             Console.ReadLine();
